@@ -2675,6 +2675,19 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.features article .video {
+			display: inline-block;
+			padding-right: 2.5em;
+			vertical-align: middle;
+			width: 48%;
+			height: 225px;
+		}
+
+			.features article .video iframe {
+				display: block;
+				width: 100%;
+			}
+
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
